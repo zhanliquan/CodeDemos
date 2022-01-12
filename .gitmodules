@@ -1,0 +1,3 @@
+[submodule "JavaDemos"]
+	path = JavaDemos
+	url = https://github.com/zhanliquan/JavaDemos.git
